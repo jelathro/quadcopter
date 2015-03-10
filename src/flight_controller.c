@@ -14,4 +14,3 @@ void main(void){
         while(i != 0);
     }
 }
-

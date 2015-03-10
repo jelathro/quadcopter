@@ -6,4 +6,3 @@ Steps to run on board:
 2. mspdebug rf2500
 3. prog &lt;prog name&gt;.elf
 4. run
-
